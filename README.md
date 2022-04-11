@@ -11,7 +11,7 @@ $ pkg install git
 $ pkg install python
 $ git clone https://github.com/Al-Vino/enc-py3
 $ cd enc-py3
-$ python enc.py
+$ python py3.py
 ```
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/AdjAlvino)
