@@ -1,6 +1,8 @@
 ## Note
 Amankan Script mu Dari Para Pericode Ngav
 ( Jancok )
+Ingat : Instalnya Lewat Github/git clone yh
+Soalnya Kalo Luu Ambil Filenya Doang ntar Eror
 
 # PAKE DOANG NGGA FOLLOW, KONTOL LO
 
