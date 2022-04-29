@@ -1,3 +1,7 @@
+## Note
+Amankan Script mu Dari Para Pericode Ngav
+( Jancok )
+
 # PAKE DOANG NGGA FOLLOW, KONTOL LO
 
 ![deskripsi gambar](https://i.ibb.co/zh84kMb/Screenshot-2022-03-27-18-07-07-757-com-termux.png)
